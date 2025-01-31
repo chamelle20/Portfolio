@@ -25,5 +25,5 @@ Welcome to my portfolio! This repository showcases my projects and skills develo
 ## Future Goals
 - Build more complex web applications and expand my knowledge in full-stack development.
 - Deepen my expertise in cybersecurity and ethical hacking techniques.
-- Learn additional programming languages, such as Python, to enhance my capabilities.
+- Learn additional programming languages, such as C#, to enhance my capabilities.
 - Contribute to open-source projects and collaborate with the developer community.
